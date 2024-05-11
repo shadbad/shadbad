@@ -1,8 +1,12 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sina
+# Sina Akbari Shadbad
 
 ## 🚀 Maverick Full-Stack Web Developer on a Mission!
 
-I'm all about turning challenges into opportunities! As a problem solver who loves diving into new things, I've got the self-sufficient, proactive, and upbeat vibe covered. I'm that friendly collaborator who's always ready to pitch in and make things happen. I've taught myself the ropes as a full-stack web developer and transformed into a cloud maestro, orchestrating digital symphonies with the magic of cloud architecture. The journey's been a blast! What sets me apart? Well, I'm not just about coding and architecting. I'm your go-to tech translator, making the complex sound like a breeze. Being client-focused is my jam, and I'm all ears to ensure your project hits the right notes. Plus, adaptability is my middle name – I changed my stack from .NET to JavaScript because I love embracing new challenges and staying on the cutting edge. Let's chat and see how my skills and positive energy can add some magic to your team! 🚀
+I'm all about turning challenges into opportunities! As a problem solver who loves diving into new things, I've got the self-sufficient, proactive, and upbeat vibe covered. I'm that friendly collaborator who's always ready to pitch in and make things happen. I've taught myself the ropes as a full-stack web developer and transformed into a cloud maestro, orchestrating digital symphonies with the magic of cloud architecture. The journey's been a blast! 
+
+What sets me apart? Well, I'm not just about coding and architecting. I'm your go-to tech translator, making the complex sound like a breeze. Being client-focused is my jam, and I'm all ears to ensure your project hits the right notes. Plus, adaptability is my middle name – I changed my stack from .NET to JavaScript because I love embracing new challenges and staying on the cutting edge. 
+
+Let's chat and see how my skills and positive energy can add some magic to your team! 🚀
 
 - 🌍  I'm based in Leipzig, Germany
 - 🧠  I'm learning Amazon Web Services, K8, Linux Administration
