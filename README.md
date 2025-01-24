@@ -8,7 +8,7 @@ What sets me apart? Well, I'm not just about coding and architecting. I'm your g
 
 Let's chat and see how my skills and positive energy can add some magic to your team! 🚀
 
-- 🌍  I'm based in Leipzig, Germany
+- 🌍  I'm based in Berlin, Germany
 - 🧠  I'm learning Amazon Web Services, K8, Linux Administration
 
 <a href="https://www.github.com/shadbad" target="_blank" rel="noreferrer"><img
