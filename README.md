@@ -7,6 +7,6 @@ I'm passionate about **clean code, scalable architecture, and leading engineerin
 
 ### Sleek & Scalable UI Projects
 🔹 **Modern E-Commerce** ( [GitHub Repo](https://github.com/shadbad/react-based-shopify-craft-theme) | [Live Demo](https://shadbad.github.io/react-based-shopify-craft-theme/) )   
-🔹 **Click the Fox!** ( [GitHub Repo]([https://github.com/shadbad/react-based-shopify-craft-theme](https://github.com/shadbad/click-the-fox)) | [Live Demo]([https://shadbad.github.io/react-based-shopify-craft-theme/](https://shadbad.github.io/click-the-fox/)) )  
+🔹 **Click the Fox!** ( [GitHub Repo](https://github.com/shadbad/click-the-fox) | [Live Demo](https://shadbad.github.io/click-the-fox/) )  
 
 🎯 **Want to know more?** Explore my work and insights at **[shadbad.dev](https://shadbad.dev)** 🚀 
