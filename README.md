@@ -10,7 +10,7 @@ I'm passionate about **clean code, scalable architecture, and leading engineerin
 🔹 **Click the Fox!** ( [GitHub Repo](https://github.com/shadbad/click-the-fox) | [Live Demo](https://shadbad.github.io/click-the-fox/) )  
 
 ### What I'm learning right now?
-🔹 Ich lerne Deutsch. 🇩🇪
-🔹 I'm having a blast learning Go (Golang)! 🚀
+🔹 **Ich lerne Deutsch. 🇩🇪**
+🔹 **I'm having a blast learning Go (Golang)! 🚀**
 
 🎯 **Want to know more?** Explore my work and insights at **[shadbad.dev](https://shadbad.dev)** 🚀 
