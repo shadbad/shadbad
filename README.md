@@ -11,6 +11,6 @@ I'm passionate about **clean code, scalable architecture, and leading engineerin
 
 ### What I'm learning right now?
 🔹 Ich lerne Deutsch.
-🔹'm having a blast learning Go (Golang)! 🚀
+🔹 I'm having a blast learning Go (Golang)! 🚀
 
 🎯 **Want to know more?** Explore my work and insights at **[shadbad.dev](https://shadbad.dev)** 🚀 
