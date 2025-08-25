@@ -1,4 +1,4 @@
-## Tech Lead & Senior Software Engineer | Architecting Scalable Cloud-Native Applications with Go, TypeScript & Python | AWS & GCP Certified
+## Tech Lead & Senior Software Engineer
 
 I'm passionate about **clean code, scalable architecture, and leading engineering teams** to create impactful software solutions. With experience in **Go, Python, TypeScript, GCP, and AWS**, I focus on building **high-performance applications** that are maintainable and efficient.
 
